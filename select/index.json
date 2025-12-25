@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Jackson 5 - I Saw Mommy Kissing Santa Claus (Official Video)",
+  "base_artist": "The Jackson 5",
+  "createdAt": "2025-12-25T11:24:10.627698Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jackson",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/01_Jackson_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ms. Jackson",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/02_Ms._Jackson_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jackson",
+      "artist": "Johnny Cash feat. June Carter",
+      "has_synced": true,
+      "path": "select/03_Jackson_Johnny_Cash_feat._June_Carter.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jackson",
+      "artist": "Johnny Cash feat. June Carter Cash",
+      "has_synced": true,
+      "path": "select/04_Jackson_Johnny_Cash_feat._June_Carter_Cash.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jackson - Mono Version",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/05_Jackson_-_Mono_Version_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jackson (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/06_Jackson_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Matter To Me (feat. Michael Jackson)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/07_Don't_Matter_To_Me_(feat._Michael_Jackson)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What's It Gonna Be (feat. Janet Jackson)",
+      "artist": "Busta Rhymes feat. Janet Jackson",
+      "has_synced": true,
+      "path": "select/08_What's_It_Gonna_Be_(feat._Janet_Jackson)_Busta_Rhymes_feat._Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What's It Gonna Be?! featuring Janet Jackson",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/09_What's_It_Gonna_Be_!_featuring_Janet_Jackson_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Michael Jackson; Paul McCartney \u0000 The Girl Is Mine",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/10_Michael_Jackson;_Paul_McCartney_\u0000_The_Girl_Is_Mine_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Political Song for Michael Jackson to Sing",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/11_Political_Song_for_Michael_Jackson_to_Sing_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Run Into Flowers (Midnight Fuck Remix by Jackson)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/12_Run_Into_Flowers_(Midnight_Fuck_Remix_by_Jackson)_M83.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Scream (Feat. Janet Jackson)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/13_Scream_(Feat._Janet_Jackson)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "People on the High Line (feat. Elly Jackson)",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/14_People_on_the_High_Line_(feat._Elly_Jackson)_New_Order.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Feel It Boy (feat. Janet Jackson)",
+      "artist": "Beenie Man",
+      "has_synced": false,
+      "path": "select/15_Feel_It_Boy_(feat._Janet_Jackson)_Beenie_Man.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Jackson 5 Medley (Immortal Version)",
+      "artist": "The Jackson 5",
+      "has_synced": true,
+      "path": "select/16_The_Jackson_5_Medley_(Immortal_Version)_The_Jackson_5.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Jackson 5 Medley (Immortal Version)",
+      "artist": "Jackson 5",
+      "has_synced": true,
+      "path": "select/17_The_Jackson_5_Medley_(Immortal_Version)_Jackson_5.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Jackson 5 - I Saw Mommy Kissing Santa Claus (Official Video)",
+      "artist": "Classic Motown",
+      "has_synced": false,
+      "path": "select/18_Jackson_5_-_I_Saw_Mommy_Kissing_Santa_Claus_(Official_Video)_Classic_Motown.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Jackson 5 - I Saw Mommy Kissing Santa Claus (Official Video)",
+      "artist": "The Jackson 5",
+      "has_synced": false,
+      "path": "select/19_Jackson_5_-_I_Saw_Mommy_Kissing_Santa_Claus_(Official_Video)_The_Jackson_5.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Saw Mommy Kissing Santa Claus",
+      "artist": "The Jackson 5",
+      "has_synced": false,
+      "path": "select/pl_01_I_Saw_Mommy_Kissing_Santa_Claus_The_Jackson_5.txt"
+    }
+  ]
+}
